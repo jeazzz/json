@@ -57,18 +57,24 @@
     "links": [
       {
         "link1": {
+          "text": "GOATARK.com",
+          "url": "https://goatark.com/"
+        }
+      },
+      {
+        "link2": {
           "text": "Discord",
           "url": "https://discord.com/invite/GOATARK"
         }
       },
       {
-        "link2": {
+        "link3": {
           "text": "Shop",
           "url": "https://www.patreon.com/GOATARK/shop"
         }
       },
       {
-        "link3": {
+        "link4": {
           "text": "Donate",
           "url": "https://www.paypal.com/donate/?hosted_button_id=YFFMXRDXHNTJ2"
         }
