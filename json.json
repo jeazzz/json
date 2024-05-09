@@ -31,7 +31,7 @@
           "title1": "3.0 Casino rules",
           "text1": "3.1 Any killing inside, and in the range of Casino is forbidden.\n\n3.2 Admins will wipe sleeping players & forgotten dinos inside and in the range of Casino.\n\n3.3 Your dinos must be parked in DinoParking, they are forbidden inside Casino.\n\n3.4 Coins are not made to be traded with other players. Let new players gamble in Casino and do not stalk them to take their starter coins.\n\n3.5 Picking up admins with your starter Argentavis will lead you an instant kick.\n\n3.6 Admins will not teleport you in Casino, there are teleporters on Obelisks.\n\n",
           "title2": "4.0 Store rules",
-          "text2": "4.1 All payments are final and non-refundable except if none of the digital items have been used or collected.\n\n4.2 Attempting a chargeback or opening a PayPal dispute will result in permanent and irreversible banishment from all of our servers.\n\n4.3 Along with server rules (1.2), admins are not forced to return any bought items lost due to in-game situations, bugs or rollbacks.\n\n4.4 You will not keep any of your digital purchases if a server wipes, except if you did not claimed your items during last wipe.\n\n4.5 We reserve the rights to refuse a refund if you are banned from the servers for rule breaking. You need to apply the rules like everyone.\n\nBy purchasing, you further agree our Webstore TOS & Privacy Policy.\n\nIf you want to make a custom buying, please create a ticket.",
+          "text2": "4.1 All payments are final and non-refundable.\n\n4.2 Attempting a chargeback or opening a PayPal dispute will result in permanent and irreversible banishment from all of our servers.\n\n4.3 Along with server rules (1.2), admins are not forced to return any bought items lost due to in-game situations, bugs or rollbacks.\n\n4.4 You will not keep any of your digital purchases if a server wipes, except if you did not claimed your items during last wipe.\n\n4.5 We reserve the rights to refuse a refund if you are banned from the servers for rule breaking. You need to apply the rules like everyone.\n\nBy purchasing, you further agree our Webstore TOS & Privacy Policy.\n\nIf you want to make a custom buying, please create a ticket.",
           "imageurl": "https://imgur.com/43vKojE.png"
         }
       },
@@ -50,6 +50,17 @@
           "buttontext": "ORP",
           "title1": "Offline Raid Protection",
           "text1": "The Shrine of protection is unlocked at level 20 and is made in the smithy.\n\nYou must be in a tribe in order to place it.\nIf everyone leaves the tribe, shrine will be destroyed.\n\nOnce placed, the shrine will automatically activate after 30 minutes when the last tribe member log off from the server.\nTurrets will then do twice as much damage.\n\nRaiders will be alerted when approaching in range of the protected base, an orange text will appear at the top of the screen.\n\nWhen the delay has elapsed, the cracks will light up orange, all structures within the radius will be protected from any damage.\nThis only protects structures. In order to protect dinos, cover them with structures.\n\nThe structure has 250,000 HP, you can display the protection range via the radial menu (7200).\nEvery players can see the dome when you show its range.\nShrine still protects even without this dome.\n\nIf a member reconnects, protection will be removed from all structures after 1 minute, the color will then turn blue.\n\nWhen you log off again, the timer resumes.\nIf no tribe member logs in within 48 hours, the shrine will be destroyed and structures will lose their protection.\n\n48H online protection available in Shop.\n\nWhy I can't place/see Shrine engram?\n● Uninstall Base Protection Suite mod.\n● Restart game.\n● Join server.",
+          "imageurl": "https://imgur.com/43vKojE.png"
+        }
+      },
+      {
+        "tab5": {
+          "layout": 2,
+          "buttontext": "Custom Drops",
+          "title1": "The Island",
+          "text1": ":white_circle: Artifact of the Hunter\n:green_circle: Artifact of the Massive & Clever\n:blue_circle: Artifact of the Devourer & Pack\n:purple_circle: Artifact of the Brute & Strong\n:yellow_circle: Artifact of the Immune & Skylord\n:red_circle: Artifact of the Cunning\n",
+          "title2": "Scorched Earth",
+          "text2": ":white_circle: Fire Talon\n:green_circle: Lightning Talon\n:blue_circle: Poison Talon\n:purple_circle: Artifact of the Gatekeeper\n:yellow_circle: Artifact of the Destroyer\n:red_circle: Artifact of the Crag",
           "imageurl": "https://imgur.com/43vKojE.png"
         }
       }
