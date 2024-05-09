@@ -40,7 +40,7 @@
           "layout": 1,
           "buttontext": "Registration (Kits)",
           "title1": "How to register in-game account to Discord?",
-          "text1": "You must register in order to claim your kits.\n\nASA-BOT\n● Type /registerme in discord to get your 6 digit code.\n● Craft in-game ASA-BOT note. (unlocked lvl 1)\n● Consume it, then a panel will appear.\n● Enter ID and username then click Confirm.\n\nClaim your starter kits in discord #Kits channel.\n\nThere is one kit per map, useable once per wipe.\nMultiple accounts will be permanently banned.\nYou need to be in-game on the right server, depending on the kit you selected in order claim them.\n\nWhy I can't see ASA-BOT note engram?\n● Uninstall ASA-Bot Companion mod.\n● Restart game.\n● Join server.",
+          "text1": "You must register in order to claim your kits.\n\n<TextStyle.LightBlue>ASA-BOT</>\n● Type /registerme in discord to get your 6 digit code.\n● Craft in-game ASA-BOT note. (unlocked lvl 1)\n● Consume it, then a panel will appear.\n● Enter ID and username then click Confirm.\n\nClaim your starter kits in discord #Kits channel.\n\nThere is one kit per map, useable once per wipe.\nMultiple accounts will be permanently banned.\nYou need to be in-game on the right server, depending on the kit you selected in order claim them.\n\n<TextStyle.LightBlue>Why I can't use/see ASA-BOT note engram?</>\n● Uninstall ASA-Bot Companion mod.\n● Restart game.\n● Join server.",
           "imageurl": "https://imgur.com/43vKojE.png"
         }
       },
@@ -49,7 +49,7 @@
           "layout": 1,
           "buttontext": "ORP",
           "title1": "Offline Raid Protection",
-          "text1": "The Shrine of protection is unlocked at level 20 and is made in the smithy.\n\nYou must be in a tribe in order to place it.\nIf everyone leaves the tribe, shrine will be destroyed.\n\nOnce placed, the shrine will automatically activate after 30 minutes when the last tribe member log off from the server.\nTurrets will then do twice as much damage.\n\nRaiders will be alerted when approaching in range of the protected base, an orange text will appear at the top of the screen.\n\nWhen the delay has elapsed, the cracks will light up orange, all structures within the radius will be protected from any damage.\nThis only protects structures. In order to protect dinos, cover them with structures.\n\nThe structure has 250,000 HP, you can display the protection range via the radial menu (7200).\nEvery players can see the dome when you show its range.\nShrine still protects even without this dome.\n\nIf a member reconnects, protection will be removed from all structures after 1 minute, the color will then turn blue.\n\nWhen you log off again, the timer resumes.\nIf no tribe member logs in within 48 hours, the shrine will be destroyed and structures will lose their protection.\n\n48H online protection available in Shop.\n\nWhy I can't place/see Shrine engram?\n● Uninstall Base Protection Suite mod.\n● Restart game.\n● Join server.",
+          "text1": "The Shrine of protection is unlocked at level 20 and is made in the smithy.\n\nYou must be in a tribe in order to place it.\nIf everyone leaves the tribe, shrine will be destroyed.\n\nOnce placed, the shrine will automatically activate after 30 minutes when the last tribe member log off from the server.\nTurrets will then do twice as much damage.\n\nRaiders will be alerted when approaching in range of the protected base, an orange text will appear at the top of the screen.\n\nWhen the delay has elapsed, the cracks will light up orange, all structures within the radius will be protected from any damage.\nThis only protects structures. In order to protect dinos, cover them with structures.\n\nThe structure has 250,000 HP, you can display the protection range via the radial menu (7200).\nEvery players can see the dome when you show its range.\nShrine still protects even without this dome.\n\nIf a member reconnects, protection will be removed from all structures after 1 minute, the color will then turn blue.\n\nWhen you log off again, the timer resumes.\nIf no tribe member logs in within 48 hours, the shrine will be destroyed and structures will lose their protection.\n\n48H online protection available in Shop.\n\n<TextStyle.LightBlue>Why I can't place/see Shrine engram?</>\n● Uninstall Base Protection Suite mod.\n● Restart game.\n● Join server.",
           "imageurl": "https://imgur.com/43vKojE.png"
         }
       },
@@ -58,7 +58,7 @@
           "layout": 4,
           "buttontext": "Custom drops",
           "title1": "Drops + caves drops are customized!",
-          "text1": "You will have artifacts and boss items spawns here.\n\nDiscover other rewards by looting drops!",
+          "text1": "<TextStyle.LightBlue>You will have artifacts and boss items spawns here.</>\n\n<TextStyle.LightBlue>Discover other rewards by looting drops!</>",
           "title2": "Bosses drops",
           "text2": "Between x1 and x2 Element drop",
           "title3": "The Island",
