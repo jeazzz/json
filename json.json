@@ -18,7 +18,7 @@
           "layout": 2,
           "buttontext": "Server rules",
           "title1": "1.0 General rules",
-          "text1": "All rules must be followed.They are subject to change at any time.\n\n1.1 Multiple accounts and cheating will lead you to a permaban without any warning.\n\n1.2 Admins are not forced to return items or lost dinos due to in-game situations, bugs or rollbacks.\n\n1.3 Mass breeding is forbidden to avoid server lags.\n*Dinos wipe.\n\n1.4 Along with last rule, useless dinos must be stored in cryofridge.\n*Dinos wipe.\n\n1.5 Teaming is not allowed. Only trades between tribes are allowed.\n*Alliances are disabled.\n\n1.6 Be fair with new players, raiding a wooden or stone base won't gain you anything, except their leaving.\n*Unfair raiding will give a warn to the tribe.\n\n1.7 Any type of meshing is forbidden : Mesh biting, structures through walls...",
+          "text1": "All rules must be followed.They are subject to change at any time.\n\n1.1 Multiple accounts and cheating will lead you to a permaban without any warning.\n\n1.2 Admins are not forced to return items or lost dinos due to in-game situations, bugs or rollbacks.\n\n1.3 Mass breeding is forbidden to avoid server lags.\n*Dinos wipe.\n\n1.4 Along with last rule, useless dinos must be stored in cryofridge.\n*Dinos wipe.\n\n1.5 Teaming is not allowed. Only trades between tribes are allowed.\n*Alliances are disabled.\n\n1.6 Be fair with new players, raiding a wooden or stone base won't gain you anything, except their leaving.\n*Unfair raiding will give a warn to the tribe.\n\n1.7 Any type of meshing is forbidden : Mesh biting, structures through walls...\n\n1.8 Do bosses at your own risk! Arenas are buggy, there will be no refunding.\n\n1.9 Lost items during transfer because of auto server restarts will not be covered! Do not move during the 5mn cooldown before it restarts.",
           "title2": "2.0 Building rules",
           "text2": "Admins will wipe structures if these rules are not followed.\n\n2.1 Banned locations : Banned locations : Swamp Cave, Tek Cave, Volcano, Obelisks, Wyvern trench, player spawns and ressources spots..\n\n2.2 All caves are buildable except Swamp Cave, and you must not block their entrances..\n*Artifacts spawns in all airdrops.\n\n2.3 Ratholes are only allowed if you get in through normal movement. (crouching and probing).\n*Exploits by grapple, KO, beds, tek... are forbidden.\n\n2.4 Max base limit is 2 per cluster, to let other players find a base spot.\n\n2.5 Do not use tunnels/structures, walls and ceilings to bypass turrets.\n\n2.6  Random placed turrets, floating turrets and floating structures are forbidden.\n\n2.7 All forgotten structures and dinos including Fobs and tame traps will be wiped by admins.",
           "imageurl": "https://imgur.com/43vKojE.png"
@@ -62,9 +62,9 @@
           "title2": "Bosses drops",
           "text2": "Between x1 and x2 Element drop",
           "title3": "The Island",
-          "text3": "Artifact of the Hunter\nArtifact of the Massive & Clever\nArtifact of the Devourer & Pack\nArtifact of the Brute & Strong\nArtifact of the Immune & Skylord\nArtifact of the Cunning",
+          "text3": "<TextStyle.White>Artifact of the Hunter</>\n<TextStyle.Green>Artifact of the Massive & Clever</>\n<TextStyle.Blue>Artifact of the Devourer & Pack</>\n<TextStyle.Violet>Artifact of the Brute & Strong</>\n<TextStyle.Yellow>Artifact of the Immune & Skylord</>\n<TextStyle.Red>Artifact of the Cunning</>",
           "title4": "Scorched Earth",
-          "text4": "Fire Talon\nLightning Talon\nPoison Talon\nArtifact of the Gatekeeper\nArtifact of the Destroyer\n<RichColor Color=\"1,0,0,1\">Artifact of the Crag</>",
+          "text4": "<TextStyle.White>Fire Talon</>\n<TextStyle.Green>Lightning Talon</>\n<TextStyle.Blue>Poison Talon</>\n<TextStyle.Violet>Artifact of the Gatekeeper</>\n<TextStyle.Yellow>Artifact of the Destroyer</>\n<TextStyle.Red>Artifact of the Crag</>",
           "imageurl": "https://imgur.com/43vKojE.png"
         }
       }
