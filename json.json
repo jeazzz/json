@@ -57,14 +57,14 @@
         "tab5": {
           "layout": 4,
           "buttontext": "Custom drops",
-          "title1": "All drops + caves drops are customized and increased!",
+          "title1": "Drops + caves drops are customized!",
           "text1": "You will have artifacts and boss items spawns here.\n\nDiscover other rewards by looting drops!",
-          "title2": "The Island",
-          "text2": "Artifact of the Hunter\n\nArtifact of the Massive & Clever\n\nArtifact of the Devourer & Pack\n\nArtifact of the Brute & Strong\n\nArtifact of the Immune & Skylord\n\nArtifact of the Cunning\n",
-          "title3": "Scorched Earth",
-          "text3": "Fire Talon\n\nLightning Talon\n\nPoison Talon\n\nArtifact of the Gatekeeper\n\nArtifact of the Destroyer\n\nArtifact of the Crag",
-          "title4": "Bosses drops",
-          "text4": "Between x1 and x2 Element drop",
+          "title2": "Bosses drops",
+          "text2": "Between x1 and x2 Element drop",
+          "title3": "The Island",
+          "text3": "Artifact of the Hunter\nArtifact of the Massive & Clever\nArtifact of the Devourer & Pack\nArtifact of the Brute & Strong\nArtifact of the Immune & Skylord\nArtifact of the Cunning",
+          "title4": "Scorched Earth",
+          "text4": "Fire Talon\nLightning Talon\nPoison Talon\nArtifact of the Gatekeeper\nArtifact of the Destroyer\n<RichColor Color=\"1,0,0,1\">Artifact of the Crag</>",
           "imageurl": "https://imgur.com/43vKojE.png"
         }
       }
