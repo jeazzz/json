@@ -60,7 +60,7 @@
           "title1": "Drops + caves drops are customized!",
           "text1": "<TextStyle.LightBlue>You will have artifacts and boss items spawns here.</>\n\n<TextStyle.LightBlue>Discover other rewards by looting drops!</>",
           "title2": "Bosses drops",
-          "text2": "Between x1 and x2 Element drop",
+          "text2": "<TextStyle.LightBlue>Between x1 and x2 Element drop</>",
           "title3": "The Island",
           "text3": "<TextStyle.White>Artifact of the Hunter</>\n<TextStyle.Green>Artifact of the Massive & Clever</>\n<TextStyle.Blue>Artifact of the Devourer & Pack</>\n<TextStyle.Violet>Artifact of the Brute & Strong</>\n<TextStyle.Yellow>Artifact of the Immune & Skylord</>\n<TextStyle.Red>Artifact of the Cunning</>",
           "title4": "Scorched Earth",
