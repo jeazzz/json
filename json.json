@@ -29,7 +29,7 @@
           "layout": 2,
           "buttontext": "Casino & Store rules",
           "title1": "3.0 Casino rules",
-          "text1": "<TextStyle.Red>Casino Location: Only Island servers [90.0/90.0]</>\n\n3.1 Any killing inside, and in the range of Casino is forbidden.\n\n3.2 Admins will wipe sleeping players & forgotten dinos inside and in the range of Casino.\n\n3.3 Your dinos must be parked in DinoParking, they are forbidden inside Casino.\n\n3.4 Coins are not made to be traded with other players. Let new players gamble in Casino and do not stalk them to take their starter coins.\n\n3.5 Do not transfer coins from Island to other maps or they will disappear!.\n\n3.6 Admins will not teleport you in Casino, there are teleporters on Obelisks (Unlocked lvl 50)",
+          "text1": "<TextStyle.Red>Casino Location: Only Island servers [90.0/90.0]</>\n\n3.1 Any killing inside, and in the range of Casino is forbidden.\n\n3.2 Admins will wipe sleeping players & forgotten dinos inside and in the range of Casino.\n\n3.3 Your dinos must be parked in DinoParking, they are forbidden inside Casino.\n\n3.4 Coins are not made to be traded with other players. Let new players gamble in Casino and do not stalk them to take their starter coins.\n\n3.5 Do not transfer coins from Island to other maps or they will disappear!.\n\n3.6 Admins will not teleport you in Casino, there are teleporters on Obelisks (Unlocked lvl 50)\n\nGet coins by selling alpha tributes at Casino, winning events or by buying them in Store.",
           "title2": "4.0 Store rules",
           "text2": "4.1 All payments are final and non-refundable.\n\n4.2 Attempting a chargeback or opening a PayPal dispute will result in permanent and irreversible banishment from all of our servers.\n\n4.3 Along with server rules (1.2), admins are not forced to return any bought items lost due to in-game situations, bugs or rollbacks.\n\n4.4 You will not keep any of your digital purchases if a server wipes, except if you did not claimed your items during last wipe.\n\n4.5 We reserve the rights to refuse a refund if you are banned from the servers for rule breaking. You need to apply the rules like everyone.\n\nBy purchasing, you further agree our Webstore TOS & Privacy Policy.\n\nIf you want to make a custom order, please create a ticket on Discord.",
           "imageurl": "https://imgur.com/43vKojE.png"
@@ -49,17 +49,17 @@
           "layout": 1,
           "buttontext": "ORP",
           "title1": "Offline Raid Protection",
-          "text1": "ORP structure is unlocked at level 20 and is made in your inventory.\nThis is not a 100% offline protection.\n\nOnce placed, ORP will automatically activate after 30 minutes when the last tribe member log off from the server.\nStructures and dinos within the radius will have a 4x resistance buff and 3x turret damage buff.\n\nCombat logging prevented : If an enemy is inside the ORP radius, ORP wont activate.\nIt will display a message saying you are preventing the ORP activation. If enemy leaves, ORP activates.\n\nThe ORP structure can easily be destroyed, place it wisely. You can display the protection range by using the radial menu.\nAll players can see the dome when you show its range. The dome is not necessary to make ORP work, it is only visual.\n\nWhen a member logs on, buffs are removed from structures & turrets.\n\nIf no tribe member logs in within 48 hours, ORP structure will be destroyed, removing structure resistance buff and turrets damage buff.\n\n<TextStyle.LightBlue>Why I can't place/see ORP engram?</>\n● Uninstall Hyper's Offline Raid Protection.\n● Restart game.\n● Join server.",
+          "text1": "ORP structure is unlocked at level 20 and is made in your inventory.\nThis is not a 100% offline protection.\n\nOnce placed, ORP will automatically activate after 30 minutes when the last tribe member log off from the server.\nStructures and dinos within the radius will have a 4x resistance buff and 3x turret damage buff.\n\nCombat logging prevented : If an enemy is inside the ORP radius, buffs wont be applied.\nIt will display a message saying you are preventing the ORP activation. If enemy leaves, it will activate.\n\nThe ORP structure can easily be destroyed, place it wisely. You can display the protection range by using the radial menu.\nAll players can see the dome when you show its range. The dome is not necessary to make ORP work, it is only visual.\n\nWhen a member logs on, buffs are removed from structures & turrets.\n\nIf no tribe member logs in within 48 hours, ORP structure will be destroyed, removing structure resistance buff and turrets damage buff.\n\n<TextStyle.LightBlue>Why I can't place/see ORP engram?</>\n● Uninstall Hyper's Offline Raid Protection.\n● Restart game.\n● Join server.",
           "imageurl": "https://imgur.com/43vKojE.png"
         }
       },
       {
         "tab5": {
           "layout": 4,
-          "buttontext": "Custom drops",
-          "title1": "Drops + caves drops are customized!",
+          "buttontext": "Custom Drops",
+          "title1": "Drops + Cave drops are customized!",
           "text1": "<TextStyle.LightBlue>You will have artifacts and boss items spawns here.</>\n\n<TextStyle.LightBlue>Discover other rewards by looting drops!</>",
-          "title2": "Bosses drops",
+          "title2": "Bosse drops",
           "text2": "<TextStyle.LightBlue>Between x1 and x2 Element drop</>",
           "title3": "The Island",
           "text3": "<TextStyle.White>Artifact of the Hunter</>\n<TextStyle.Green>Artifact of the Massive & Clever</>\n<TextStyle.Blue>Artifact of the Devourer & Pack</>\n<TextStyle.Violet>Artifact of the Brute & Strong</>\n<TextStyle.Yellow>Artifact of the Immune & Skylord</>\n<TextStyle.Red>Artifact of the Cunning</>",
