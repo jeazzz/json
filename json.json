@@ -57,14 +57,14 @@
         "tab5": {
           "layout": 4,
           "buttontext": "Custom Drops",
-          "title1": "Drops + Cave drops are customized!",
-          "text1": "<TextStyle.LightBlue>You will have artifacts and boss items spawns here.</>\n\n<TextStyle.LightBlue>Discover other rewards by looting drops!</>",
-          "title2": "Bosse drops",
-          "text2": "<TextStyle.LightBlue>Between x1 and x2 Element drop</>",
-          "title3": "The Island",
-          "text3": "<TextStyle.White>Artifact of the Hunter</>\n<TextStyle.Green>Artifact of the Massive & Clever</>\n<TextStyle.Blue>Artifact of the Devourer & Pack</>\n<TextStyle.Violet>Artifact of the Brute & Strong</>\n<TextStyle.Yellow>Artifact of the Immune & Skylord</>\n<TextStyle.Red>Artifact of the Cunning</>",
-          "title4": "Scorched Earth",
-          "text4": "<TextStyle.White>Fire Talon</>\n<TextStyle.Green>Lightning Talon</>\n<TextStyle.Blue>Poison Talon</>\n<TextStyle.Violet>Artifact of the Gatekeeper</>\n<TextStyle.Yellow>Artifact of the Destroyer</>\n<TextStyle.Red>Artifact of the Crag</>",
+          "title1": "All drops are customized and increased.",
+          "text1": "<TextStyle.LightBlue>Supply drops items respects their map.</>\n\n<TextStyle.LightBlue>SE crates will not give water saddles as there are no water tames there.</>\n\n<TextStyle.LightBlue>Island crates will not give SE artifacts & talons.</>",
+          "title2": "Boss drops",
+          "text2": "<TextStyle.LightBlue>x2 Element + BPs</>",
+          "title3": "Supply drops",
+          "text3": "<TextStyle.White>Player & Dino Consumables</>\n<TextStyle.Green>Tributes</>\n<TextStyle.Blue>Artifacts</>\n<TextStyle.Violet>Saddles (50% BPs)</>\n<TextStyle.Yellow>Weapons & Armors (50% BPs)</>\n<TextStyle.Red>End-game 100% BPs</>",
+          "title4": "Cave Supply Crates",
+          "text4": "Customized - Text coming soon.",
           "imageurl": "https://imgur.com/43vKojE.png"
         }
       }
