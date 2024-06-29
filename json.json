@@ -62,7 +62,7 @@
           "title2": "Boss drops",
           "text2": "<TextStyle.LightBlue>x2 Element + BPs</>",
           "title3": "Supply drops",
-          "text3": "<TextStyle.White>Player & Dino Consumables</>\n<TextStyle.Green>Tributes</>\n<TextStyle.Blue>Artifacts</>\n<TextStyle.Violet>Saddles (50% BPs)</>\n<TextStyle.Yellow>Weapons & Armors (50% BPs)</>\n<TextStyle.Red>End-game 100% BPs</>",
+          "text3": "<TextStyle.White>Player & Dino Consumables</>\n<TextStyle.Green>Artifacts & Tributes</>\n<TextStyle.Blue>PVP Kits</>\n<TextStyle.Violet>Saddles (50% BPs)</>\n<TextStyle.Yellow>Weapons & Armors (50% BPs)</>\n<TextStyle.Red>End-game 100% BPs</>",
           "title4": "Cave Supply Crates",
           "text4": "Customized - Text coming soon.",
           "imageurl": "https://imgur.com/43vKojE.png"
