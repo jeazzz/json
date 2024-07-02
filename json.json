@@ -28,7 +28,7 @@
         "tab2": {
           "layout": 1,
           "buttontext": "Casino rules",
-          "title1": "3.0 Casino rules",
+          "title1": "Casino rules",
           "text1": "<TextStyle.Red>Casino location : Only Island servers [90.0/90.0]</>\n\n3.1 Any killing inside the Casino and within its radius is forbidden.\n\n3.2 Admins will wipe sleeping players & forgotten dinos inside and in the range of Casino.\n\n3.3 Dinos must be parked in DinoParking, they will be killed inside Casino.\n\n3.4 Coins are not made to be traded with other players. Let players gamble in Casino and do not stalk them to get their coins.\n\n3.5 Do not transfer coins from Island to other maps or they will disappear!.\n\n3.6 Admins will not teleport you in Casino, there are teleporters on Obelisks (Unlocked lvl 50)\n\nGet coins by selling alpha tributes at Casino, winning events or by buying them in our Store.",
           "imageurl": "https://imgur.com/43vKojE.png"
         }
