@@ -56,13 +56,13 @@
           "layout": 4,
           "buttontext": "Custom Drops",
           "title1": "All drops are customized and increased.",
-          "text1": "<TextStyle.LightBlue>Supply drops items respects their map.</>\n\n<TextStyle.LightBlue>SE crates will not give water saddles as there are no water tames there.</>\n\n<TextStyle.LightBlue>Island crates will not give SE artifacts & talons.</>",
+          "text1": "<TextStyle.LightBlue>Supply drops items respects their map.</>\n\n<TextStyle.LightBlue>SE crates won't give water saddles as theres no water tames.</>\n\n<TextStyle.LightBlue>Island crates won't give SE artifacts & talons.</>",
           "title2": "Boss Drops",
-          "text2": "<TextStyle.LightBlue>x2 Element + BPs</>\n<TextStyle.Green>50% BPs</>\n<TextStyle.Yellow>End-game 50% High Quality BPs</>\n<TextStyle.Red>End-game 100% High Quality BPs</>",
+          "text2": "<TextStyle.LightBlue>2x Element + BPs</>\n<TextStyle.Green>50% BPs</>\n<TextStyle.Yellow>End-game 50% HQ BPs</>\n<TextStyle.Red>End-game 100% HQ BPs</>",
           "title3": "Supply Drops",
           "text3": "<TextStyle.White>Player & Dino Consumables</>\n<TextStyle.Green>Artifacts & Tributes</>\n<TextStyle.Blue>PVP Kits</>\n<TextStyle.Violet>Saddles 50% BPs</>\n<TextStyle.Yellow>Weapons & Armors 50% BPs</>\n<TextStyle.Red>End-game 100% BPs</>",
           "title4": "Cave Supply Crates",
-          "text4": "<TextStyle.Green>Player Consumables</>\n<TextStyle.Blue>Saddles 50% High Quality BPs</>\n<TextStyle.Yellow>Weapons & Armors 50% High Quality BPs</>\n<TextStyle.Red>End-game 75% High Quality BPs</>",
+          "text4": "<TextStyle.Green>Player Consumables</>\n<TextStyle.Blue>Saddles 50% HQ BPs</>\n<TextStyle.Yellow>Weapons & Armors 50% HQ BPs</>\n<TextStyle.Red>End-game 75% HQ BPs</>",
           "imageurl": "https://imgur.com/43vKojE.png"
         }
       }
