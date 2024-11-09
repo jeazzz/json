@@ -29,7 +29,7 @@
           "layout": 1,
           "buttontext": "Casino rules",
           "title1": "Casino rules",
-          "text1": "<TextStyle.Red>Casino location : Only Island servers [90.0/90.0]</>\n\n3.1 Any killing inside the Casino and within its radius is forbidden.\n\n3.2 Admins will wipe sleeping players & forgotten dinos inside and in the range of Casino.\n\n3.3 Dinos must be parked in DinoParking, they will be killed inside Casino.\n\n3.4 Coins are not made to be traded with other players. Let players gamble in Casino and do not stalk them to get their coins.\n\n3.5 Do not transfer coins from Island to other maps or they will disappear!.\n\n3.6 Admins will not teleport you in Casino, there are teleporters on Obelisks (Unlocked lvl 50)\n\nGet coins by selling alpha tributes at Casino, winning events or by buying them in our Store.",
+          "text1": "<TextStyle.Red>Casino location : Only Island servers [90.0/90.0]</>\n\n3.1 Any killing inside the Casino and within its radius is forbidden.\n\n3.2 Admins will wipe sleeping players & forgotten dinos inside and in the range of Casino.\n\n3.3 Dinos must be parked in DinoParking, they will be killed inside Casino.\n\n3.4 Coins are not made to be traded with other players. Let players gamble in Casino and do not stalk them to get their coins.\n\n3.5 Admins will not teleport you in Casino, there are teleporters on Obelisks (Unlocked lvl 50)\n\nGet coins by selling alpha tributes at Casino, winning events or by buying them in our Store.",
           "imageurl": "https://imgur.com/43vKojE.png"
         }
       },
@@ -38,7 +38,7 @@
           "layout": 1,
           "buttontext": "Registration (Kits)",
           "title1": "How to register in-game account to Discord?",
-          "text1": "<TextStyle.Red>You must register in order to claim your kits.</>\n\n<TextStyle.LightBlue>Player Registration</>\n● Open Radial Menu and open ASA-Bot (Hold R or X or Square)\n● Copy the given 6 digit code.\n● Type /confirm on any channel of Discord.\n● Paste the 6 digit code and hit Enter.\n\nYou are now permanently registered on all servers.\nClaim your starter kits on Discord Starter Kits category. (2man & 6man channels)\n\nThere is one kit per map, useable once per wipe.\nMultiple accounts will be permanently banned.\nYou need to be in-game on the right server, depending on the kit you selected in order claim them.\n\n<TextStyle.LightBlue>Please watch the tutorial posted in #Register if you need more help</>",
+          "text1": "<TextStyle.Red>You must register in order to claim your kits.</>\n\n<TextStyle.LightBlue>Player Registration</>\n● Open Radial Menu and open ASA-Bot (Hold R or X or Square)\n● Copy the given 6 digit code.\n● Type /confirm on any channel of Discord.\n● Paste the 6 digit code and hit Enter.\n\nYou are now permanently registered on all servers.\nClaim your starter kits on Discord Starter Kits channel.\n\nThere is one kit per cluster, useable once a week.\nYou must be in-game on eligible servers to claim them.\nMultiple accounts will be permanently banned.\nRegistration fails? Open a ticket, we will manually register you.\n\n<TextStyle.LightBlue>Please watch the tutorial posted in #Register if you need more help</>",
           "imageurl": "https://imgur.com/43vKojE.png"
         }
       },
