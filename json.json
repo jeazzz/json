@@ -38,7 +38,7 @@
           "layout": 1,
           "buttontext": "Registration (Kits)",
           "title1": "How to register in-game account to Discord?",
-          "text1": "<TextStyle.Red>You must register in order to claim your kits.</>\n\n<TextStyle.LightBlue>Player Registration</>\n● Open Radial Menu and open ASA-Bot (Hold R or X or Square)\n● Copy the given 6 digit code.\n● Type /confirm on any channel of Discord.\n● Paste the 6 digit code and hit Enter.\n\nYou are now permanently registered on all servers.\nClaim your starter kits on Discord Starter Kits channel.\n\nThere is one kit per cluster, useable once a week.\nYou must be in-game on eligible servers to claim them.\nMultiple accounts will be permanently banned.\nRegistration fails? Open a ticket, we will manually register you.\n\n<TextStyle.LightBlue>Please watch the tutorial posted in #Register if you need more help</>",
+          "text1": "<TextStyle.Red>You must register in order to claim your kits.</>\n\n<TextStyle.LightBlue>Player Registration</>\n● Open Radial Menu and open ASA-Bot (Hold R or X or Square)\n● Copy the given 6 digit code.\n● Type /confirm on any channel of Discord.\n● Paste the 6 digit code and hit Enter.\n\nYou are now permanently registered on all servers.\nClaim your starter kits on Discord Starter Kits channel.\n\nThere is one kit per cluster, useable once a week.\nYou must be in-game on eligible servers to claim them.\nIf confirmation code shows blank, please respawn.\nRegistration fails? Open a ticket, we will manually register you.\n\n<TextStyle.LightBlue>Please watch the tutorial posted in #Register if you need more help</>",
           "imageurl": "https://imgur.com/43vKojE.png"
         }
       },
