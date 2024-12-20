@@ -25,7 +25,7 @@
         }
       },
       {
-        "tab4": {
+        "tab2": {
           "layout": 1,
           "buttontext": "Chat Commands",
           "title1": "Chat Commands",
@@ -34,7 +34,7 @@
         }
       },
       {
-        "tab2": {
+        "tab3": {
           "layout": 1,
           "buttontext": "Registration",
           "title1": "How to register in-game account to Discord?",
@@ -43,7 +43,7 @@
         }
       },
       {
-	 "tab3": {
+	 "tab4": {
           "layout": 2,
           "buttontext": "Protection (ORP/NPP)",
           "title1": "Offline Raid Protection",
