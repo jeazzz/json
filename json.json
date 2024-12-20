@@ -18,9 +18,9 @@
           "layout": 2,
           "buttontext": "Server rules",
           "title1": "1.0 General rules",
-          "text1": "All rules must be followed. They are subject to change at any time. 3 Warns = 1 Week ban.\n\n1.1 Multiple accounts, cheating and abusing exploits will lead you to a permaban without any warning.\n*Permanent ban\n\n1.2 Admins are not forced to return items or lost dinos due to in-game situations, bugs or rollbacks.\n\n1.3 Mass breeding is forbidden to avoid server lags. Useless dinos must be stored.\n*Dinos wipe + warn.\n\n1.4 Handcuffing players is allowed but it must not last more than an hour.\n*Cages are disabled\n\n1.5 Teaming is forbidden. Raids are only between 2 tribes. Any interference by a 3rd tribe at a raid is considered teaming unless legally countered (clear attempts of raid with a counter fob, no sniping only)\n*Tribe owners warn/ban.\n\n1.6 Popcorning is forbidden. (Dropping items from vaults, smithys, fabs... during a raid so no one gets it)\n*Warn/Ban\n\n1.7 Harassment, racism, hate speech or any king of discriminatory speech will be severly punished.\nWarn/Ban\n\n1.8 Insiding and scamming are strictly bannable. Irrefutable proof must be provided.\n*Ban\n\n1.9 Conducting any kind of real-world economic activity by selling in-game items is strictly prohibited.\n*Ban",
+          "text1": "All rules must be followed. They are subject to change at any time. 3 Warns = 1 Week ban.\n\n1.1 Multiple accounts, cheating and abusing exploits will lead you to a permaban without any warning.\n\n1.2 Admins are not forced to return items or lost dinos due to in-game situations, bugs or rollbacks.\n\n1.3 Mass breeding is forbidden to avoid server lags. Useless dinos must be stored.\n\n1.4 Handcuffing players is allowed but it must not last more than an hour.\n\n1.5 Teaming is forbidden. Raids are only between 2 tribes. Any interference by a 3rd tribe at a raid is considered teaming unless legally countered (clear attempts of raid with a counter fob, no sniping only)\n\n1.6 Destroying structures through the mesh is forbidden. Using Gigas or other dinos to mesh biting is allowed.\n\n1.7 Harassment, racism, hate speech or any king of discriminatory speech will be severly punished.\n\n1.8 Insiding and scamming are strictly bannable. Irrefutable proof must be provided.\n\n1.9 Conducting any kind of real-world economic activity by selling in-game items is strictly prohibited.",
           "title2": "2.0 Building rules",
-          "text2": "Admins will structure wipe and warn/ban if these rules are not followed.\n\n2.1 <RichColor Color=\"1,0,0,1\">Banned locations</>\n\nGeneral : Obelisks, player spawns and ressources spots.\nAberration : Surface & Charge nodes\nThe Center : Ice Palace & Jumping Puzzle.\nThe Island : Swamp Cave, Tek Cave & Volcano.\nScorched Earth : Wyvern trench.\n\n2.2 Ratholes are only allowed if you get in through normal movement. (crouching and probing).\n*Exploits by grapple, KO, beds, tek... are forbidden.\n\n2.3 Max base limit is 3 per tribe per cluster, on separate locations. Any 4th base found will be wiped.\n\n2.4 Do not use tunnels/structures, walls and ceilings to bypass turrets.\n\n2.5 Open-world structures are forbidden, more specifically turrets and gates.\n\n2.6 A fob must not be inactive more than 4 hours after starting a raid. If no progression is made within this time, fob will be removed.\n\n2.7 No building within the mesh. All structures will be wiped without any warning.\n\n2.8 Platform dinos : Do not create line of sight to prevent the dino from taking any damage.\n\n2.9 Any transfer of ownership of bases that are actively being raided is not allowed.",
+          "text2": "Admins will structure wipe and warn/ban if these rules are not followed.\n\n2.1 <RichColor Color=\"1,0,0,1\">Banned locations</>\n\nGeneral : Obelisks, player spawns and ressources spots.\nIsland : Swamp Cave, Tek Cave & Volcano\nThe Center : Ice Palace & Jumping Puzzle.\nScorched Earth : Wyvern trench.\nAberration : Surface & Charge nodes\nExtinction : OSDs & Element Veins\n\n2.2 Ratholes are only allowed if you get in through normal movement. (crouching and probing).\nExploits by grapple, KO, beds, tek... are forbidden.\n\n2.3 Max base limit is 3 per tribe per cluster, on separate locations. Any 4th base found will be wiped.\n\n2.4 Do not use tunnels/structures, walls and ceilings to bypass turrets.\n\n2.5 Open-world structures are forbidden, more specifically turrets and gates.\n\n2.6 A fob must not be inactive more than 4 hours after starting a raid. If no progression is made within this time, fob will be removed.\n\n2.7 No building within the mesh. All structures will be wiped without any warning.\n\n2.8 Platform dinos : Do not create line of sight to prevent the dino from taking any damage.\n\n2.9 Any transfer of ownership of bases that are actively being raided is not allowed.",
           "imageurl": "https://imgur.com/43vKojE.png"
         }
       },
@@ -36,33 +36,35 @@
       {
         "tab3": {
           "layout": 1,
-          "buttontext": "Registration (Kits)",
+          "buttontext": "Registration",
           "title1": "How to register in-game account to Discord?",
-          "text1": "<TextStyle.Red>You must register in order to claim your kits.</>\n\n<TextStyle.LightBlue>Player Registration</>\n● Open Radial Menu and open ASA-Bot (Hold R or X or Square)\n● Copy the given 6 digit code.\n● Type /confirm on any channel of Discord.\n● Paste the 6 digit code and hit Enter.\n\nYou are now permanently registered on all servers.\nClaim your starter kits on Discord Starter Kits channel.\n\nThere is one kit per cluster, useable once a week.\nYou must be in-game on eligible servers to claim them.\nIf confirmation code shows blank, please respawn.\nRegistration fails? Open a ticket, we will manually register you.\n\n<TextStyle.LightBlue>Please watch the tutorial posted in #Register if you need more help</>",
+          "text1": "<TextStyle.Red>You must register in order to claim your kits.</>\n\n<TextStyle.LightBlue>Player Registration</>\n● Open Radial Menu and open ASA-Bot (Hold R or X or Square)\n● Copy the given 6 digit code.\n● Type /confirm on any channel of Discord.\n● Paste the 6 digit code and hit Enter.\n\nYou are now permanently registered on all servers.\nClaim your starter kits on Discord Starter Kits channel.\n\nThere is one kit per cluster, useable once a week.\nYou must be in-game on eligible servers to claim them.\nRegistration fails? Open a ticket, we will manually register you.\n\n<TextStyle.LightBlue>Please watch the tutorial posted in #Register if you need more help</>",
           "imageurl": "https://imgur.com/43vKojE.png"
         }
       },
       {
-        "tab4": {
-          "layout": 1,
-          "buttontext": "ORP",
+	 	    "tab4": {
+          "layout": 2,
+          "buttontext": "Protection (ORP/NPP)",
           "title1": "Offline Raid Protection",
-          "text1": "ORP structure is unlocked at level 20 and is made in your inventory.\nThis is not a 100% offline protection.\n\nOnce placed, ORP will automatically activate after 30 minutes when the last tribe member log off from the server.\nStructures and dinos within the radius will have a 4× resistance buff and 3× turret damage buff.\n\nCombat logging prevented : If an enemy is inside the ORP radius, buffs wont be applied.\nIt will display a message saying you are preventing the ORP activation. If enemy leaves, it will activate.\n\nThe ORP structure can easily be destroyed, place it wisely. You can display the protection range by using the radial menu.\nAll players can see the dome when you show its range. The dome is not necessary to make ORP work, it is only visual.\n\nWhen a member logs on, buffs are removed from structures & turrets.\n\nIf no tribe member logs in within 48 hours, ORP structure will be destroyed, removing structure resistance buff and turrets damage buff.\n\n<TextStyle.LightBlue>Why I can't place/see ORP engram?</>\n● Uninstall Hyper's Offline Raid Protection.\n● Restart game.\n● Join server.",
-          "imageurl": "https://imgur.com/43vKojE.png"
+          "text1": "ORP structure is unlocked at level 1 and costs 10 Metal Ingots.\nThis is not a 100% ORP.\n\nOnce placed, the ORP will activate automatically after 30 minutes when the last tribe member has logged off the server.\nStructures and dinos within the 30-foundation radius of the ORP will receive only 25% damage, and turret damage will be increased by 300%.\n\nCombat logging prevented : If you log off mid-raid, you will have a 30 minutes penalty to the normal activation.\nIt will display a message saying you are preventing the ORP activation. If no damage is received from the enemy for 1h, the ORP will then activate.\n\nORP structure is TEK and has 10.000 HP, all buffs will be removed if it gets destroyed, place it wisely. You can display its range by interacting with the structure.\nAll players can see the dome when you show its range.\n\nWhen a member logs on, buffs are removed from structures & turrets after a minute.\n\nIf no tribe member logs in within 24 hours, ORP structure will be destroyed, removing both structure and turret damage buff.",
+          "title2": "New Player Protection",
+          "text2": "This is not a 100% NPP.\n\nNew created characters will automatically receive a 24 hours NPP.\nA buff will be shown at bottom right to your screen showing how much time is left.\n\nPlaced structures will be immune to any damage from players and wild dinos.\nPlayer will still receive damage from other players and wild dinos.\nPlayer will not be able to attack other tribe structures while being protected.\n\nIf the player reaches lvl 90, the NPP will automatically be disabled.\n\nType /nppoff in chat to disable NPP at anytime. NPP cannot be enabled again.",
+		      "imageurl": "https://imgur.com/43vKojE.png"
         }
       },
       {
-        "tab5": {
+	    	 "tab5": {
           "layout": 4,
           "buttontext": "Custom Drops",
-          "title1": "All drops are customized and increased.",
-          "text1": "<TextStyle.LightBlue>Supply drops items respects their map.</>\n\n<TextStyle.LightBlue>SE crates won't give water saddles as theres no water tames.</>\n\n<TextStyle.LightBlue>Island crates won't give SE artifacts & talons.</>",
-          "title2": "Boss Drops",
-          "text2": "<TextStyle.LightBlue>2x Element on all bosses</>\n<TextStyle.Green>High Tier 50% HQ BPs</>\n<TextStyle.Yellow>End-game 50% HQ BPs</>\n<TextStyle.Red>End-game 100% HQ BPs</>",
-          "title3": "Supply Drops",
-          "text3": "<TextStyle.White>Player & Dino Consumables</>\n<TextStyle.Green>Artifacts & Tributes</>\n<TextStyle.Blue>PVP Kits</>\n<TextStyle.Violet>Saddles 50% BPs</>\n<TextStyle.Yellow>Weapons & Armors 50% BPs</>\n<TextStyle.Red>High Tier 75% HQ BPs</>",
+          "title1": "Supply Drops",
+          "text1": "<TextStyle.White>Player & Dino Consumables</>\n<TextStyle.Green>Artifacts & Tributes</>\n<TextStyle.Blue>PVP Kits</>\n<TextStyle.Violet>Saddles 50% BPs</>\n<TextStyle.Yellow>Weapons & Armors 50% BPs</>\n<TextStyle.Red>High Tier 50% HQ BPs</>",
+          "title2": "Surface Drops",
+          "text2": "<TextStyle.Blue>30% HQ BPs</>\n<TextStyle.Violet>40% HQ BPs</>\n<TextStyle.Yellow>50% HQ BPs</>\n<TextStyle.Red>High Tier 50% HQ BPs</>",
+          "title3": "Boss Drops",
+          "text3": "<TextStyle.Green>High Tier 50% HQ BPs + 100× Element</>\n<TextStyle.Yellow>End-game 50% HQ BPs + 200× Element</>\n<TextStyle.Red>End-game 75% HQ BPs + 400× Element</>",
           "title4": "Cave Supply Crates",
-          "text4": "<TextStyle.Green>Player Consumables</>\n<TextStyle.Blue>Saddles 50% HQ BPs</>\n<TextStyle.Yellow>Weapons & Armors 50% HQ BPs</>\n<TextStyle.Red>High Tier 75% HQ BPs</>",
+          "text4": "<TextStyle.Green>20% BPs</>\n<TextStyle.Blue>35% HQ BPs</>\n<TextStyle.Yellow>50% HQ BPs</>\n<TextStyle.Red>High Tier 50% HQ BPs</>",
           "imageurl": "https://imgur.com/43vKojE.png"
         }
       }
