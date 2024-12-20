@@ -25,16 +25,16 @@
         }
       },
       {
-        "tab2": {
+        "tab4": {
           "layout": 1,
-          "buttontext": "Casino rules",
-          "title1": "Casino rules",
-          "text1": "<TextStyle.Red>Casino location : Only Island servers [90.0/90.0]</>\n\n3.1 Any killing inside the Casino and within its radius is forbidden.\n\n3.2 Admins will wipe sleeping players & forgotten dinos inside and in the range of Casino.\n\n3.3 Dinos must be parked in DinoParking, they will be killed inside Casino.\n\n3.4 Coins are not made to be traded with other players. Let players gamble in Casino and do not stalk them to get their coins.\n\n3.5 Admins will not teleport you in Casino, there are teleporters on Obelisks (Unlocked lvl 50)\n\nGet coins by selling alpha tributes at Casino, winning events or by buying them in our Store.",
+          "buttontext": "Chat Commands",
+          "title1": "Chat Commands",
+          "text1": "Solo Farm - Grab your anky, fly and type : /farm\nEligible dinos : Anky, Beaver, Thorny Dragon, Doedicurus, Gigantopithecus, Megaloceros, Stegosaurus, Roll Rat\n/stopall - Stop all your dinos from farming.\n\nTurret Manager - Command range : 40 foundations on Default group\nfill - Fills all turrets within the range\n/turrets on/off - Turn on/off all turrets\n/turrets heavy on/off - Turn on/off specific turrets.\n/turrets auto on/off\n/turrets tek on/off\n\nItem Transfer - Our item transfer works natively, you can easily transfer element and tributes like any other item.\nJust in case, you can also use commands by opening a terminal, then type : /upload\nAfter traveling, type : /download\n\nGroup Management - Useful for contributors having a rank.\n/groups\n\nAuto Decay - Check tribe decay times while looking at a tribe owned structure\n/decay\n\nInstant Respawn - Gain 5 seconds!\n/suicide\n\nTribe Logs - Create a webhook via your own discord server then type :\n/webhook {discord webhook}\n/remove\n\nLootboxes - /claim to claim a lootbox!\n\nMindwipe : /mindwipe\n\nGive engrams - Only gives available engrams. Auto-Engram is enabled, command exists just in case you have negative points.\n/giveengrams",
           "imageurl": "https://imgur.com/43vKojE.png"
         }
       },
       {
-        "tab3": {
+        "tab2": {
           "layout": 1,
           "buttontext": "Registration",
           "title1": "How to register in-game account to Discord?",
@@ -43,7 +43,7 @@
         }
       },
       {
-	 	    "tab4": {
+	 "tab3": {
           "layout": 2,
           "buttontext": "Protection (ORP/NPP)",
           "title1": "Offline Raid Protection",
@@ -54,7 +54,7 @@
         }
       },
       {
-	    	 "tab5": {
+	 "tab5": {
           "layout": 4,
           "buttontext": "Custom Drops",
           "title1": "Supply Drops",
