@@ -27,15 +27,6 @@
       {
         "tab2": {
           "layout": 1,
-          "buttontext": "Chat Commands",
-          "title1": "Chat Commands",
-          "text1": "Turret Manager - Command range : 40 foundations on Default group\nfill - Fills all turrets within the range\n/turrets on/off - Turn on/off all turrets\n/turrets heavy on/off - Turn on/off specific turrets.\n/turrets auto on/off\n/turrets tek on/off\n\nElement Transfer - Transfer Element by opening a terminal (obelisk, transmitter, drop) then type : /upload\nAfter traveling, type : /download\n\nGroup Management - Useful for contributors having a rank.\n/groups\n\nAuto Decay - Check tribe decay times while looking at a tribe owned structure\n/decay\n\nInstant Respawn - Gain 5 seconds!\n/kill\n\nTribe Logs (Starting from Golden GOAT) - Create a webhook via your own discord server then type :\n/webhook {discord webhook}\n/remove\n\nLootboxes - /claim to claim a lootbox! Lootboxes are stored when you die or travel.\n\nMindwipe : /mindwipe\n\nGive engrams - Only gives available engrams.\n/giveengrams",
-          "imageurl": "https://imgur.com/43vKojE.png"
-        }
-      },
-      {
-        "tab3": {
-          "layout": 1,
           "buttontext": "Registration",
           "title1": "How to register in-game account to Discord?",
           "text1": "<TextStyle.Red>You must register in order to claim your kits.</>\n\n<TextStyle.LightBlue>Player Registration</>\n● Open Radial Menu and open ASA-Bot (Hold R or X or Square)\n● Copy the given 6 digit code.\n● Type /confirm on any channel of Discord.\n● Paste the 6 digit code and hit Enter.\n\nYou are now permanently registered on all servers.\nClaim your starter kits on Discord Starter Kits channel.\n\nThere is one kit per cluster, useable once a week.\nYou must be in-game on eligible servers to claim them.\nRegistration fails? Open a ticket, we will manually register you.\n\n<TextStyle.LightBlue>Please watch the tutorial posted in #Register if you need more help</>",
@@ -43,14 +34,21 @@
         }
       },
       {
-	 "tab4": {
-          "layout": 2,
-          "buttontext": "Protection (ORP/NPP)",
+	 "tab3": {
+          "layout": 1,
+          "buttontext": "ORP",
           "title1": "Offline Raid Protection",
           "text1": "ORP structure is unlocked at level 1 and costs 10 Metal Ingots.\nThis is not a 100% ORP.\n\nOnce placed, the ORP will activate automatically after 30 minutes when the last tribe member has logged off the server.\nStructures and dinos within the 30-foundation radius of the ORP will receive only 25% damage, and turret damage will be increased by 300%.\n\nCombat logging prevented : If you log off mid-raid, you will have a 30 minutes penalty to the normal activation.\nIt will display a message saying you are preventing the ORP activation. If no damage is received from the enemy for 1h, the ORP will then activate.\n\nORP structure is TEK and has 10.000 HP, all buffs will be removed if it gets destroyed, place it wisely. You can display its range by interacting with the structure.\nAll players can see the dome when you show its range.\n\nWhen a member logs on, buffs are removed from structures & turrets after a minute.\n\nIf no tribe member logs in within 24 hours, ORP structure will be destroyed, removing both structure and turret damage buff.",
-          "title2": "New Player Protection",
-          "text2": "This is not a 100% NPP.\n\nNew created characters will automatically receive a 24 hours NPP.\nA buff will be shown at bottom right to your screen showing how much time is left.\n\nPlaced structures will be immune to any damage from players and wild dinos.\nPlayer will still receive damage from other players and wild dinos.\nPlayer will not be able to attack other tribe structures while being protected.\n\nIf the player reaches lvl 90, the NPP will automatically be disabled.\n\nType /nppoff in chat to disable NPP at anytime. NPP cannot be enabled again.",
-		      "imageurl": "https://imgur.com/43vKojE.png"
+	  "imageurl": "https://imgur.com/43vKojE.png"
+        }
+      },
+      {
+        "tab4": {
+          "layout": 1,
+          "buttontext": "Chat Commands",
+          "title1": "Chat Commands",
+          "text1": "Turret Manager - Command range : 40 foundations on Default group\nfill - Fills all turrets within the range\n/turrets on/off - Turn on/off all turrets\n/turrets heavy on/off - Turn on/off specific turrets.\n/turrets auto on/off\n/turrets tek on/off\n\nElement Transfer - Transfer Element by opening a terminal (obelisk, transmitter, drop) then type : /upload\nAfter traveling, type : /download\n\nGroup Management - Useful for contributors having a rank.\n/groups\n\nAuto Decay - Check tribe decay times while looking at a tribe owned structure\n/decay\n\nInstant Respawn - Gain 5 seconds!\n/kill\n\nTribe Logs (Starting from Golden GOAT) - Create a webhook via your own discord server then type :\n/webhook {discord webhook}\n/remove\n\nLootboxes - /claim to claim a lootbox! Lootboxes are stored when you die or travel.\n\nMindwipe : /mindwipe\n\nGive engrams - Only gives available engrams.\n/giveengrams",
+          "imageurl": "https://imgur.com/43vKojE.png"
         }
       },
       {
