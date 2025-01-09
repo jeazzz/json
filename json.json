@@ -38,21 +38,12 @@
           "layout": 1,
           "buttontext": "ORP",
           "title1": "Offline Raid Protection",
-          "text1": "ORP structure is unlocked at level 1 and costs 10 Metal Ingots.\nThis is not a 100% ORP.\n\nOnce placed, the ORP will activate automatically after 30 minutes when the last tribe member has logged off the server.\nStructures and dinos within the 30-foundation radius of the ORP will receive only 25% damage, and turret damage will be increased by 300%.\n\nCombat logging prevented : If you log off mid-raid, you will have a 30 minutes penalty to the normal activation.\nIt will display a message saying you are preventing the ORP activation. If no damage is received from the enemy for 1h, the ORP will then activate.\n\nORP structure is TEK and has 10.000 HP, all buffs will be removed if it gets destroyed, place it wisely. You can display its range by interacting with the structure.\nAll players can see the dome when you show its range.\n\nWhen a member logs on, buffs are removed from structures & turrets after a minute.\n\nIf no tribe member logs in within 24 hours, ORP structure will be destroyed, removing both structure and turret damage buff.",
+          "text1": "ORP structure is unlocked at level 1 and costs 10 Metal Ingots.\nThis is not a 100% ORP.\n\nOnce placed, the ORP will automatically activate after 1h when the last tribe member has logged off the server.\nStructures and dinos within the 30-foundation radius of the ORP will receive a 5× resistance buff, and turret damage will receive a 3× damage buff.\n\nCombat logging prevented : If you log off mid-raid, ORP wont activate. If enemy leaves ORP radius, the ORP timer will then start.\n\nORP structure is TEK and has 10.000 HP, all buffs will be removed if it gets destroyed, place it wisely. You can display its range by interacting with the structure.\nWhen a tribe member logs on, buffs are removed from structures & turrets after a minute.\n\nIf no tribe member logs in within 24 hours, ORP structure will be destroyed, removing both structure and turret damage buff.\n\nPurge ORP : Every Saturday at 20:00 UTC all ORP structures will be disabled during 24h.\nAll ORP structures will then reactivate every Sunday at 20:00 UTC.",
 	  "imageurl": "https://imgur.com/43vKojE.png"
         }
       },
       {
-        "tab4": {
-          "layout": 1,
-          "buttontext": "Chat Commands",
-          "title1": "Chat Commands",
-          "text1": "Turret Manager\nCommand range : 40 foundations on Default group\n/fill : Fills all turrets within the range\n/turrets on/off : Turns on/off all turrets\n/turrets heavy on/off : Turns on/off specific turrets\n/turrets auto on/off\n/turrets tek on/off\n\nGroup Management\n/groups : Useful for contributors having a rank\n\nAuto Decay\n/decay : Check tribe decay times while looking at a tribe owned structure\n\nTribe Logs (Starting from Golden GOAT)\nFirst, create a webhook via your own discord server\n/webhook {discord webhook}\n/remove\n\nLFG system\n/lfg : Toggle LFG Status\n/lfglist : Shows the list of current players on the LFG list\n/invite : Invite player using the ID found on the list\n/accept : Accept the tribe invite\n\nLootboxes\n/claim : Claims stored lootboxes. Lootboxes are stored when you die or travel\n\nGive engrams\n/giveengrams : Only gives available engrams\n\nMindwipe\n/mindwipe\n\nInstant Respawn\n/kill : Gain 5 seconds!",
-          "imageurl": "https://imgur.com/43vKojE.png"
-        }
-      },
-      {
-	 "tab5": {
+	 "tab4": {
           "layout": 4,
           "buttontext": "Custom Drops",
           "title1": "Supply Drops",
