@@ -60,8 +60,6 @@
             {
                 "entryid": "Breeding_Pair_LootBox",
                 "dinoclass": [
-					"/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
-					"/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C",
 					"/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP_C",
 					"/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP_C",
 					"/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire_C",
@@ -85,7 +83,9 @@
 					"/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP_C",
 					"/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP_C",
 					"/Game/Extinction/Dinos/GasBag/GasBags_Character_BP.GasBags_Character_BP_C",
-					"/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP_C"
+					"/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP_C",
+					"/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
+					"/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C"
                 ],
                 "dinoname": [
                 ],
