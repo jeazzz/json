@@ -172,8 +172,7 @@
                     "4/7,1/1,350/536,200/400,0/0,3/5,0/0,0/0,10/10",
 					"4/7,1/1,350/682,125/250,0/0,3/5,0/0,0/0,10/10",
                     "4/7,1/1,600/975,0/0,70/90,3/5,0/0,0/0,10/10",
-					"4/7,1/1,600/975,0/0,125/160,3/5,0/0,0/0,10/10"
-					
+					"4/7,1/1,600/975,0/0,125/160,3/5,0/0,0/0,10/10"	
                 ],
                 "preventduplicates": [ false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false ]
             }
