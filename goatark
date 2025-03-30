@@ -3,17 +3,27 @@
     {
         "itemstruct": [
             {
-                "entryid": "MetalTools",
+                "entryid": "Resource_LootBox",
                 "primalitems": [
-                    "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalHatchet.PrimalItem_WeaponMetalHatchet_C",
-                    "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick_C"
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste_C",
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Chitin.PrimalItemResource_Chitin_C",
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Crystal.PrimalItemResource_Crystal_C",
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_MetalIngot.PrimalItemResource_MetalIngot_C",
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hide.PrimalItemResource_Hide_C",
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gunpowder.PrimalItemResource_Gunpowder_C",
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Wood.PrimalItemResource_Wood_C",
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers_C",
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon_C",
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Electronics.PrimalItemResource_Electronics_C",
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer.PrimalItemResource_Polymer_C",
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl_C"
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element_C"
                 ],
-                "itemweightchance": [ 1, 1 ],
+                "itemweightchance": [ 0.05, 0.05, 0.05, 0.05, 0.05, 0.05, 0.05, 0.05, 0.05, 0.05, 0.05, 0.05, 0.05 ],
                 "canbeblueprint": [ false, false ],
-                "blueprintchance": [ 0, 0 ],
+                "blueprintchance": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
                 "minmaxqualdmgarmorduraquantity": [
-                    "15/20,1/1,2000/2000,2000/2000,0/0,5/5,0/0,0/0,20/20",
-                    "15/20,1/1,2000/2000,2000/2000,0/0,5/5,0/0,0/0,20/20"
+                    "0/0,0/0,0/0,0/0,0/0,0/0,0/0,0/0,500000/1000000"
                 ],
                 "preventduplicates": [ true, true ]
             },
