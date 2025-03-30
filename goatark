@@ -58,7 +58,7 @@
                 ]
             },
             {
-                "entryid": "Breeding Pair LootBox",
+                "entryid": "Breeding_Pair_LootBox",
                 "dinoclass": [
 					"/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP",
 					"/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP",
