@@ -150,9 +150,9 @@
 					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementShard.PrimalItemResource_ElementShard_C",
 					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TurretTek.PrimalItemStructure_TurretTek_C"
                 ],
-                "itemweightchance": [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
-                "canbeblueprint": [ false, false, false, false, false, false, false, false, false, false, false, false, false ],
-                "blueprintchance": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+                "itemweightchance": [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+                "canbeblueprint": [ false, false, false, false, false, false, false, false, false, false, false, false ],
+                "blueprintchance": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
                 "minmaxqualdmgarmorduraquantity": [
                     "0/0,50/50",
                     "0/0,10/10",
@@ -167,7 +167,7 @@
                     "0/0,25000/25000",
 					"0/0,25/25"
                 ],
-                "preventduplicates": [ true, true, true, true, true, true, true, true, true, true, true, true, true ]
+                "preventduplicates": [ true, true, true, true, true, true, true, true, true, true, true, true ]
             },
             {
                 "entryid": "Resource_LootBox",
