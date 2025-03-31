@@ -2,6 +2,105 @@
     "LootBoxData":
     {
         "itemstruct": [
+			{
+                "entryid": "25kARB_PRM",
+                "primalitems": [
+					"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet_C"
+                ],
+                "itemweightchance": [ 1 ],
+                "canbeblueprint": [ false ],
+                "blueprintchance": [ 0 ],
+                "minmaxqualdmgarmorduraquantity": [
+                    "0/0,25000/25000"
+                ],
+                "preventduplicates": [ true ]
+            },
+			{
+                "entryid": "35kARB_R2G",
+                "primalitems": [
+					"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet_C"
+                ],
+                "itemweightchance": [ 1 ],
+                "canbeblueprint": [ false ],
+                "blueprintchance": [ 0 ],
+                "minmaxqualdmgarmorduraquantity": [
+                    "0/0,35000/35000"
+                ],
+                "preventduplicates": [ true ]
+            },
+			{
+                "entryid": "50kARB_GOAT",
+                "primalitems": [
+					"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet_C"
+                ],
+                "itemweightchance": [ 1 ],
+                "canbeblueprint": [ false ],
+                "blueprintchance": [ 0 ],
+                "minmaxqualdmgarmorduraquantity": [
+                    "0/0,50000/50000"
+                ],
+                "preventduplicates": [ true ]
+            },
+			{
+                "entryid": "Killer_Package",
+                "primalitems": [
+					"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves_C",
+					"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun_C",
+					"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedSniper.PrimalItem_WeaponMachinedSniper_C"
+                ],
+                "itemweightchance": [ 1, 1, 1, 1, 1, 1, 1 ],
+                "canbeblueprint": [ false, false, false, false, false, false, false ],
+                "blueprintchance": [ 0, 0, 0, 0, 0, 0, 0 ],
+                "minmaxqualdmgarmorduraquantity": [
+					"6/6,1/1,1170/1170,0/0,800/800,5/5,0/0,0/0,10/10",
+                    "6/6,1/1,1170/1170,0/0,800/800,5/5,0/0,0/0,10/10",
+					"6/6,1/1,1170/1170,0/0,800/800,5/5,0/0,0/0,10/10",
+                    "6/6,1/1,1170/1170,0/0,800/800,5/5,0/0,0/0,10/10",
+					"6/6,1/1,1170/1170,0/0,800/800,5/5,0/0,0/0,10/10",
+					"6/6,1/1,2925/2925,400/400,0/0,5/5,0/0,0/0,10/10",
+					"6/6,1/1,682/682,400/400,0/0,5/5,0/0,0/0,10/10"
+                ],
+                "preventduplicates": [ true, true, true, true, true, true, true ]
+            },
+            {
+                "entryid": "Premium_Package",
+                "primalitems": [
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_HeavyTurret.PrimalItemStructure_HeavyTurret_C",
+					"/ARKomatic/Structures/ARKomaticVault/PrimalItemStructure_ARKomaticVault.PrimalItemStructure_ARKomaticVault_C",
+					"/ARKomatic/Structures/ARKomaticForge/PrimalItemStructure_ARKomaticForge.PrimalItemStructure_ARKomaticForge_C",
+					"/CybersStructures/Structures/CraftingStation/PrimalItemStructure_CraftingStation_CS.PrimalItemStructure_CraftingStation_CS_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalCeiling.PrimalItemStructure_MetalCeiling_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalFloor.PrimalItemStructure_MetalFloor_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalWall.PrimalItemStructure_MetalWall_C",
+					"/CybersStructures/Crafting/ChemistryBench/PrimalItemStructure_ChemBench_CS.PrimalItemStructure_ChemBench_CS_C",
+					"/CybersStructures/Structures/Electric/Fabricator/PrimalItemStructure_Fabricator_CS.PrimalItemStructure_Fabricator_CS_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_PowerGenerator.PrimalItemStructure_PowerGenerator_C",
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gasoline.PrimalItemResource_Gasoline_C",
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl_C",
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element_C"
+                ],
+                "itemweightchance": [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+                "canbeblueprint": [ false, false, false, false, false, false, false, false, false, false, false ],
+                "blueprintchance": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+                "minmaxqualdmgarmorduraquantity": [
+                    "0/0,25/25",
+                    "0/0,3/3",
+                    "0/0,2/2",
+					"0/0,3/3",
+                    "0/0,100/100",
+                    "0/0,100/100",
+					"0/0,150/150",
+                    "0/0,3/3",
+                    "0/0,3/3",
+					"0/0,2/2",
+                    "0/0,300/300"
+                ],
+                "preventduplicates": [ true, true, true, true, true, true, true, true, true, true, true ]
+            },
             {
                 "entryid": "Resource_LootBox",
                 "primalitems": [
