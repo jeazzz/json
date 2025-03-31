@@ -337,7 +337,7 @@
 					"0/0,5000/20000",
                     "0/0,250/1000"
                 ],
-                "preventduplicates": [ false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false ]
+                "preventduplicates": [ true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true ]
             }
         ],
         "dinostruct": [
@@ -502,6 +502,7 @@
 					"224/224,0/0,0/0,0/0,0/0,0/0,0/0,0/0,0/2,0/2,0/2,0/2,0/2,0/2,0/2"
                 ],
                 "breeders": [ false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false ],
+				"preventduplicates": [ true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true ],
                 "chancetousecolors": [ 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001 ],
                 "012345colors": [
 				    "1/1/1/1/1/1",
