@@ -79,9 +79,7 @@
 					"/CybersStructures/Crafting/ChemistryBench/PrimalItemStructure_ChemBench_CS.PrimalItemStructure_ChemBench_CS_C",
 					"/CybersStructures/Structures/Electric/Fabricator/PrimalItemStructure_Fabricator_CS.PrimalItemStructure_Fabricator_CS_C",
 					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_PowerGenerator.PrimalItemStructure_PowerGenerator_C",
-					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gasoline.PrimalItemResource_Gasoline_C",
-					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl_C",
-					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element_C"
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gasoline.PrimalItemResource_Gasoline_C"
                 ],
                 "itemweightchance": [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
                 "canbeblueprint": [ false, false, false, false, false, false, false, false, false, false, false ],
@@ -100,6 +98,76 @@
                     "0/0,300/300"
                 ],
                 "preventduplicates": [ true, true, true, true, true, true, true, true, true, true, true ]
+            },
+            {
+                "entryid": "R2G_Package",
+                "primalitems": [
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_HeavyTurret.PrimalItemStructure_HeavyTurret_C",
+					"/ARKomatic/Structures/ARKomaticVault/PrimalItemStructure_ARKomaticVault.PrimalItemStructure_ARKomaticVault_C",
+					"/ARKomatic/Structures/ARKomaticForge/PrimalItemStructure_ARKomaticForge.PrimalItemStructure_ARKomaticForge_C",
+					"/CybersStructures/Structures/CraftingStation/PrimalItemStructure_CraftingStation_CS.PrimalItemStructure_CraftingStation_CS_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalCeiling.PrimalItemStructure_MetalCeiling_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalFloor.PrimalItemStructure_MetalFloor_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalWall.PrimalItemStructure_MetalWall_C",
+					"/CybersStructures/Crafting/ChemistryBench/PrimalItemStructure_ChemBench_CS.PrimalItemStructure_ChemBench_CS_C",
+					"/CybersStructures/Structures/Electric/Fabricator/PrimalItemStructure_Fabricator_CS.PrimalItemStructure_Fabricator_CS_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TekGenerator.PrimalItemStructure_TekGenerator_C",
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementShard.PrimalItemResource_ElementShard_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TurretTek.PrimalItemStructure_TurretTek_C"
+                ],
+                "itemweightchance": [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+                "canbeblueprint": [ false, false, false, false, false, false, false, false, false, false, false, false, false ],
+                "blueprintchance": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+                "minmaxqualdmgarmorduraquantity": [
+                    "0/0,35/35",
+                    "0/0,5/5",
+                    "0/0,4/4",
+					"0/0,5/5",
+                    "0/0,200/200",
+                    "0/0,200/200",
+					"0/0,300/300",
+                    "0/0,5/5",
+                    "0/0,5/5",
+					"0/0,1/1",
+                    "0/0,10000/10000",
+					"0/0,10/10"
+                ],
+                "preventduplicates": [ true, true, true, true, true, true, true, true, true, true, true, true, true ]
+            },
+            {
+                "entryid": "GOAT_Package",
+                "primalitems": [
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_HeavyTurret.PrimalItemStructure_HeavyTurret_C",
+					"/ARKomatic/Structures/ARKomaticVault/PrimalItemStructure_ARKomaticVault.PrimalItemStructure_ARKomaticVault_C",
+					"/ARKomatic/Structures/ARKomaticForge/PrimalItemStructure_ARKomaticForge.PrimalItemStructure_ARKomaticForge_C",
+					"/CybersStructures/Crafting/Replicator/PrimalItemStructure_TekReplicator_CS.PrimalItemStructure_TekReplicator_CS_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalCeiling.PrimalItemStructure_MetalCeiling_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalFloor.PrimalItemStructure_MetalFloor_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalWall.PrimalItemStructure_MetalWall_C",
+					"/CybersStructures/Crafting/ChemistryBench/PrimalItemStructure_ChemBench_CS.PrimalItemStructure_ChemBench_CS_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TekTransmitter.PrimalItemStructure_TekTransmitter_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TekGenerator.PrimalItemStructure_TekGenerator_C",
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementShard.PrimalItemResource_ElementShard_C",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TurretTek.PrimalItemStructure_TurretTek_C"
+                ],
+                "itemweightchance": [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+                "canbeblueprint": [ false, false, false, false, false, false, false, false, false, false, false, false, false ],
+                "blueprintchance": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+                "minmaxqualdmgarmorduraquantity": [
+                    "0/0,50/50",
+                    "0/0,10/10",
+                    "0/0,6/6",
+					"0/0,1/1",
+                    "0/0,400/400",
+                    "0/0,400/400",
+					"0/0,600/600",
+                    "0/0,10/10",
+                    "0/0,1/1",
+					"0/0,1/1",
+                    "0/0,25000/25000",
+					"0/0,25/25"
+                ],
+                "preventduplicates": [ true, true, true, true, true, true, true, true, true, true, true, true, true ]
             },
             {
                 "entryid": "Resource_LootBox",
