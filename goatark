@@ -3,7 +3,7 @@
     {
         "itemstruct": [
 			{
-                "entryid": "25kARB_PRM",
+                "entryid": "25K_ARB",
                 "primalitems": [
 					"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet_C"
                 ],
@@ -12,32 +12,6 @@
                 "blueprintchance": [ 0 ],
                 "minmaxqualdmgarmorduraquantity": [
                     "0/0,25000/25000"
-                ],
-                "preventduplicates": [ true ]
-            },
-			{
-                "entryid": "35kARB_R2G",
-                "primalitems": [
-					"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet_C"
-                ],
-                "itemweightchance": [ 1 ],
-                "canbeblueprint": [ false ],
-                "blueprintchance": [ 0 ],
-                "minmaxqualdmgarmorduraquantity": [
-                    "0/0,35000/35000"
-                ],
-                "preventduplicates": [ true ]
-            },
-			{
-                "entryid": "50kARB_GOAT",
-                "primalitems": [
-					"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet_C"
-                ],
-                "itemweightchance": [ 1 ],
-                "canbeblueprint": [ false ],
-                "blueprintchance": [ 0 ],
-                "minmaxqualdmgarmorduraquantity": [
-                    "0/0,50000/50000"
                 ],
                 "preventduplicates": [ true ]
             },
