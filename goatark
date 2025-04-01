@@ -3,19 +3,6 @@
     {
         "itemstruct": [
 			{
-                "entryid": "25K_ARB",
-                "primalitems": [
-					"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet_C"
-                ],
-                "itemweightchance": [ 1 ],
-                "canbeblueprint": [ false ],
-                "blueprintchance": [ 0 ],
-                "minmaxqualdmgarmorduraquantity": [
-                    "0/0,25000/25000"
-                ],
-                "preventduplicates": [ true ]
-            },
-			{
                 "entryid": "Killer_Package",
                 "primalitems": [
 					"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt_C",
@@ -53,11 +40,12 @@
 					"/CybersStructures/Crafting/ChemistryBench/PrimalItemStructure_ChemBench_CS.PrimalItemStructure_ChemBench_CS_C",
 					"/CybersStructures/Structures/Electric/Fabricator/PrimalItemStructure_Fabricator_CS.PrimalItemStructure_Fabricator_CS_C",
 					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Pipes/PrimalItemStructure_PowerGenerator.PrimalItemStructure_PowerGenerator_C",
-					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gasoline.PrimalItemResource_Gasoline_C"
+					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gasoline.PrimalItemResource_Gasoline_C",
+					"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet_C"
                 ],
-                "itemweightchance": [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
-                "canbeblueprint": [ false, false, false, false, false, false, false, false, false, false, false ],
-                "blueprintchance": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+                "itemweightchance": [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+                "canbeblueprint": [ false, false, false, false, false, false, false, false, false, false, false, false ],
+                "blueprintchance": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
                 "minmaxqualdmgarmorduraquantity": [
                     "0/0,25/25",
                     "0/0,3/3",
@@ -69,7 +57,8 @@
                     "0/0,3/3",
                     "0/0,3/3",
 					"0/0,2/2",
-                    "0/0,300/300"
+                    "0/0,300/300",
+					"0/0,25000/25000"
                 ],
                 "preventduplicates": [ true, true, true, true, true, true, true, true, true, true, true ]
             },
@@ -87,11 +76,12 @@
 					"/CybersStructures/Structures/Electric/Fabricator/PrimalItemStructure_Fabricator_CS.PrimalItemStructure_Fabricator_CS_C",
 					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TekGenerator.PrimalItemStructure_TekGenerator_C",
 					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementShard.PrimalItemResource_ElementShard_C",
-					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TurretTek.PrimalItemStructure_TurretTek_C"
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TurretTek.PrimalItemStructure_TurretTek_C",
+					"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet_C"
                 ],
-                "itemweightchance": [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
-                "canbeblueprint": [ false, false, false, false, false, false, false, false, false, false, false, false, false ],
-                "blueprintchance": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+                "itemweightchance": [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+                "canbeblueprint": [ false, false, false, false, false, false, false, false, false, false, false, false, false, false ],
+                "blueprintchance": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
                 "minmaxqualdmgarmorduraquantity": [
                     "0/0,35/35",
                     "0/0,5/5",
@@ -104,9 +94,10 @@
                     "0/0,5/5",
 					"0/0,1/1",
                     "0/0,10000/10000",
-					"0/0,10/10"
+					"0/0,10/10",
+                    "0/0,35000/35000"
                 ],
-                "preventduplicates": [ true, true, true, true, true, true, true, true, true, true, true, true, true ]
+                "preventduplicates": [ true, true, true, true, true, true, true, true, true, true, true, true, true, true ]
             },
             {
                 "entryid": "GOAT_Package",
@@ -122,11 +113,12 @@
 					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TekTransmitter.PrimalItemStructure_TekTransmitter_C",
 					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TekGenerator.PrimalItemStructure_TekGenerator_C",
 					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementShard.PrimalItemResource_ElementShard_C",
-					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TurretTek.PrimalItemStructure_TurretTek_C"
+					"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_TurretTek.PrimalItemStructure_TurretTek_C",
+					"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedRifleBullet.PrimalItemAmmo_AdvancedRifleBullet_C"
                 ],
-                "itemweightchance": [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
-                "canbeblueprint": [ false, false, false, false, false, false, false, false, false, false, false, false ],
-                "blueprintchance": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+                "itemweightchance": [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+                "canbeblueprint": [ false, false, false, false, false, false, false, false, false, false, false, false, false ],
+                "blueprintchance": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
                 "minmaxqualdmgarmorduraquantity": [
                     "0/0,50/50",
                     "0/0,10/10",
@@ -139,9 +131,10 @@
                     "0/0,1/1",
 					"0/0,1/1",
                     "0/0,25000/25000",
-					"0/0,25/25"
+					"0/0,25/25",
+                    "0/0,50000/50000"
                 ],
-                "preventduplicates": [ true, true, true, true, true, true, true, true, true, true, true, true ]
+                "preventduplicates": [ true, true, true, true, true, true, true, true, true, true, true, true, true ]
             },
             {
                 "entryid": "Resource_LootBox",
@@ -164,18 +157,18 @@
                 "canbeblueprint": [ false, false, false, false, false, false, false, false, false, false, false, false, false ],
                 "blueprintchance": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
                 "minmaxqualdmgarmorduraquantity": [
-                    "0/0,40000/50000",
-                    "0/0,40000/50000",
-                    "0/0,40000/50000",
-					"0/0,40000/50000",
-                    "0/0,40000/50000",
-                    "0/0,40000/50000",
-					"0/0,40000/50000",
-                    "0/0,40000/50000",
-                    "0/0,40000/50000",
-					"0/0,40000/50000",
-                    "0/0,10000/20000",
-					"0/0,10000/20000",
+                    "0/0,50000/75000",
+                    "0/0,50000/75000",
+                    "0/0,50000/75000",
+					"0/0,50000/75000",
+                    "0/0,50000/75000",
+                    "0/0,50000/75000",
+					"0/0,50000/75000",
+                    "0/0,50000/75000",
+                    "0/0,50000/75000",
+					"0/0,50000/75000",
+                    "0/0,10000/25000",
+					"0/0,10000/25000",
                     "0/0,250/1000"
                 ],
                 "preventduplicates": [ false, false, false, false, false, false, false, false, false, false, false, false, false ]
@@ -397,7 +390,7 @@
 					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl_C",
 					"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element_C"
                 ],
-                "itemweightchance": [ 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.1, 0.1, 0.1, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.15 ],
+                "itemweightchance": [ 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.18, 0.18, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.1, 0.1, 0.1, 0.1, 0.1, 0.2, 0.2, 0.18, 0.18, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.21, 0.15 ],
                 "canbeblueprint": [ true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false ],
                 "blueprintchance": [ 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
                 "minmaxqualdmgarmorduraquantity": [
@@ -464,18 +457,18 @@
 					"3/6,1/1,350/682,125/250,0/0,3/5,0/0,0/0,10/10",
                     "3/6,1/1,600/975,0/0,70/90,3/5,0/0,0/0,10/10",
 					"3/6,1/1,600/975,0/0,125/160,3/5,0/0,0/0,10/10",
-					"0/0,20000/30000",
-                    "0/0,20000/30000",
-                    "0/0,20000/30000",
-					"0/0,20000/30000",
-                    "0/0,20000/30000",
-                    "0/0,20000/30000",
-					"0/0,20000/30000",
-                    "0/0,20000/30000",
-                    "0/0,20000/30000",
-					"0/0,20000/30000",
-                    "0/0,5000/10000",
-					"0/0,5000/10000",
+					"0/0,15000/30000",
+                    "0/0,15000/30000",
+                    "0/0,15000/30000",
+					"0/0,15000/30000",
+                    "0/0,15000/30000",
+                    "0/0,15000/30000",
+					"0/0,15000/30000",
+                    "0/0,15000/30000",
+                    "0/0,15000/30000",
+					"0/0,15000/30000",
+                    "0/0,5000/7500",
+					"0/0,5000/7500",
                     "0/0,100/500"
                 ],
                 "preventduplicates": [ true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true ]
@@ -516,7 +509,7 @@
                 "dinoname": [
                 ],
                 "gender": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-                "chancetoget": [ 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.15, 0.15 ],
+                "chancetoget": [ 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.18, 0.18, 0.18, 0.15, 0.15 ],
                 "minmaxlevel": [
                     "224/224,0/0,0/0,0/0,0/0,0/0,0/0,0/0,0/2,0/2,0/2,0/2,0/2,0/2,0/2",
                     "190/190,0/0,0/0,0/0,0/0,0/0,0/0,0/0,0/2,0/2,0/2,0/2,0/2,0/2,0/2",
@@ -612,7 +605,7 @@
                 "dinoname": [
                 ],
                 "gender": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-                "chancetoget": [ 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.15, 0.15 ],
+                "chancetoget": [ 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.18, 0.18, 0.18, 0.15, 0.15 ],
                 "minmaxlevel": [
                     "224/224,0/0,0/0,0/0,0/0,0/0,0/0,0/0,0/2,0/2,0/2,0/2,0/2,0/2,0/2",
                     "190/190,0/0,0/0,0/0,0/0,0/0,0/0,0/0,0/2,0/2,0/2,0/2,0/2,0/2,0/2",
