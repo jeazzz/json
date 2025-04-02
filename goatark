@@ -95,7 +95,7 @@
 					"0/0,1/1",
                     "0/0,10000/10000",
 					"0/0,10/10",
-                    "0/0,35000/35000"
+                    "0/0,25000/25000"
                 ],
                 "preventduplicates": [ true, true, true, true, true, true, true, true, true, true, true, true, true, true ]
             },
@@ -132,7 +132,7 @@
 					"0/0,1/1",
                     "0/0,25000/25000",
 					"0/0,25/25",
-                    "0/0,50000/50000"
+                    "0/0,25000/25000"
                 ],
                 "preventduplicates": [ true, true, true, true, true, true, true, true, true, true, true, true, true ]
             },
@@ -490,7 +490,7 @@
 					"/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP_C",
 					"/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning_C",
 					"/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP_C",
-					"/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP",
+					"/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP_C",
 					"/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_Tamed.Xenomorph_Character_BP_Male_Tamed_C",
 					"/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP_C",
 					"/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
@@ -586,7 +586,7 @@
 					"/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP_C",
 					"/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning_C",
 					"/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP_C",
-					"/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP",
+					"/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP_C",
 					"/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_Tamed.Xenomorph_Character_BP_Male_Tamed_C",
 					"/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP_C",
 					"/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
