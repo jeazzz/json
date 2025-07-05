@@ -14,8 +14,8 @@
 					"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedSniper.PrimalItem_WeaponMachinedSniper_C"
                 ],
                 "itemweightchance": [ 1, 1, 1, 1, 1, 1, 1 ],
-                "canbeblueprint": [ false, false, false, false, false, false, false ],
-                "blueprintchance": [ 0, 0, 0, 0, 0, 0, 0 ],
+                "canbeblueprint": [ true, true, true, true, true, true, true ],
+                "blueprintchance": [ 100, 100, 100, 100, 100, 100, 100 ],
                 "minmaxqualdmgarmorduraquantity": [
 					"6/6,1/1,1170/1170,0/0,800/800,5/5,0/0,0/0,10/10",
                     "6/6,1/1,1170/1170,0/0,800/800,5/5,0/0,0/0,10/10",
