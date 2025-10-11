@@ -4,7 +4,7 @@
         "OpenButton": 1,
         "HideIcon": false,
         "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/eeOUK0P.png",
+        "IconURL": "https://image.noelshack.com/fichiers/2025/41/6/1760142113-goatark.png",
         "DisableIconText": true,
         "IconPosition": 3,
         "IconTextColor": 0,
@@ -80,5 +80,6 @@
     ]
   }
 }
+
 
 
