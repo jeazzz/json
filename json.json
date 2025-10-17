@@ -2,11 +2,11 @@
   "WBUI2": {
     "settings": {
         "OpenButton": 1,
-        "HideIcon": true,
+        "HideIcon": false,
         "HideIconAfter": 60,
         "IconURL": "https://image.noelshack.com/fichiers/2025/41/6/1760142113-goatark.png",
         "DisableIconText": true,
-        "IconPosition": 3,
+        "IconPosition": 2,
         "IconTextColor": 0,
         "OpenOnStart": false,
         "OpenOnStartOnlyNewPlayers": false,
@@ -80,6 +80,7 @@
     ]
   }
 }
+
 
 
 
