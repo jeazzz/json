@@ -2,7 +2,7 @@
   "WBUI2": {
     "settings": {
         "OpenButton": 1,
-        "HideIcon": false,
+        "HideIcon": true,
         "HideIconAfter": 60,
         "IconURL": "https://image.noelshack.com/fichiers/2025/41/6/1760142113-goatark.png",
         "DisableIconText": true,
@@ -80,6 +80,7 @@
     ]
   }
 }
+
 
 
 
