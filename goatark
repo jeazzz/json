@@ -634,12 +634,22 @@
 					"/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP_C",
 					"/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP_C",
 					"/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
-					"/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C"
+					"/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C",
+					"/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP",
+					"/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP",
+					"/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP",
+					"/Game/ASA/Dinos/YiLing/YiLing_Character_BP.YiLing_Character_BP",
+					"/Game/PrimalEarth/Dinos/WoollyRhino/Rhino_Character_BP.Rhino_Character_BP",
+					"/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP",
+					"/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP",
+					"/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP",
+					"/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP",
+					"/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP"
                 ],
                 "dinoname": [
                 ],
-                "gender": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-                "chancetoget": [ 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.18, 0.18, 0.18, 0.15, 0.15 ],
+                "gender": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+                "chancetoget": [ 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.18, 0.18, 0.18, 0.15, 0.15, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 ],
                 "minmaxlevel": [
                     "224/224,0/0,0/0,0/0,0/0,0/0,0/0,0/0,0/2,0/2,0/2,0/2,0/2,0/2,0/2",
                     "190/190,0/0,0/0,0/0,0/0,0/0,0/0,0/0,0/2,0/2,0/2,0/2,0/2,0/2,0/2",
@@ -669,9 +679,9 @@
 					"224/224,0/0,0/0,0/0,0/0,0/0,0/0,0/0,0/2,0/2,0/2,0/2,0/2,0/2,0/2",
 					"224/224,0/0,0/0,0/0,0/0,0/0,0/0,0/0,0/2,0/2,0/2,0/2,0/2,0/2,0/2"
                 ],
-                "breeders": [ false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false ],
-				"preventduplicates": [ true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true ],
-                "chancetousecolors": [ 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001 ],
+                "breeders": [ false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false ],
+				"preventduplicates": [ true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true ],
+                "chancetousecolors": [ 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001, 0.0500000000000001 ],
                 "012345colors": [
 				    "1/1/1/1/1/1",
                     "1/1/1/1/1/1",
@@ -699,7 +709,17 @@
 					"1/1/1/1/1/1",
                     "1/1/1/1/1/1",
 					"1/1/1/1/1/1",
-                    "1/1/1/1/1/1"
+                    "1/1/1/1/1/1",
+                    "1/1/1/1/1/1",
+					"1/1/1/1/1/1",
+                    "1/1/1/1/1/1",
+					"1/1/1/1/1/1",
+                    "1/1/1/1/1/1",
+					"1/1/1/1/1/1",
+                    "1/1/1/1/1/1",
+					"1/1/1/1/1/1",
+                    "1/1/1/1/1/1",
+					"1/1/1/1/1/1"
                 ]
             }
         ]
