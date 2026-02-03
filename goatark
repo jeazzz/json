@@ -204,6 +204,13 @@
 					"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_GigantSaddle.PrimalItemArmor_GigantSaddle_C",
 					"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_StegoSaddle.PrimalItemArmor_StegoSaddle_C",
 					"/Game/ScorchedEarth/Dinos/RockGolem/PrimalItemArmor_RockGolemSaddle.PrimalItemArmor_RockGolemSaddle_C",
+					"/Game/Aberration/Dinos/Basilisk/PrimalItemArmor_BasiliskSaddle.PrimalItemArmor_BasiliskSaddle",
+					"/Game/ASA/Dinos/Megaraptor/PrimalItemArmor_ValMegaraptorSaddle.PrimalItemArmor_ValMegaraptorSaddle",
+					"/Game/Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_YiLingSaddle.PrimalItemArmor_YiLingSaddle",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RhinoSaddle.PrimalItemArmor_RhinoSaddle",
+					"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_Paracer_Saddle.PrimalItemArmor_Paracer_Saddle",
+					"/Game/ScorchedEarth/Dinos/Mantis/PrimalItemArmor_MantisSaddle.PrimalItemArmor_MantisSaddle",
+					"/Game/Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_FasolasuchusSaddle.PrimalItemArmor_FasolasuchusSaddle",
 					"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponOneShotRifle.PrimalItem_WeaponOneShotRifle_C",
 					"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSword.PrimalItem_WeaponSword_C",
 					"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt_C",
@@ -241,9 +248,9 @@
 					"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TurtleSaddle.PrimalItemArmor_TurtleSaddle",
 					"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ParacerSaddle_Platform.PrimalItemArmor_ParacerSaddle_Platform_C"
                 ],
-                "itemweightchance": [ 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.1, 0.1, 0.1, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 ],
-                "canbeblueprint": [ true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true ],
-                "blueprintchance": [ 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50 ],
+                "itemweightchance": [ 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.1, 0.1, 0.1, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2 ],
+                "canbeblueprint": [ true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true ],
+                "blueprintchance": [ 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50 ],
                 "minmaxqualdmgarmorduraquantity": [
                     "3/6,1/1,600/975,0/0,125/200,3/5,0/0,0/0,10/10",
                     "3/6,1/1,600/975,0/0,125/200,3/5,0/0,0/0,10/10",
@@ -271,8 +278,15 @@
                     "3/6,1/1,600/975,0/0,125/200,3/5,0/0,0/0,10/10",
 					"3/6,1/1,600/975,0/0,125/200,3/5,0/0,0/0,10/10",
                     "3/6,1/1,600/975,0/0,125/200,3/5,0/0,0/0,10/10",
-					"3/6,1/1,600/975,0/0,90/112,3/5,0/0,0/0,10/10",
-                    "3/6,1/1,600/975,0/0,90/112,3/5,0/0,0/0,10/10",
+					"3/6,1/1,600/975,0/0,60/112,3/5,0/0,0/0,10/10",
+					"3/6,1/1,600/975,0/0,60/112,3/5,0/0,0/0,10/10",
+  					"3/6,1/1,600/975,0/0,125/200,3/5,0/0,0/0,10/10",
+                    "3/6,1/1,600/975,0/0,125/200,3/5,0/0,0/0,10/10",
+					"3/6,1/1,600/975,0/0,125/200,3/5,0/0,0/0,10/10",
+                    "3/6,1/1,600/975,0/0,125/200,3/5,0/0,0/0,10/10",
+					"3/6,1/1,600/975,0/0,90/160,3/5,0/0,0/0,10/10",
+                    "3/6,1/1,600/975,0/0,125/200,3/5,0/0,0/0,10/10",
+					"3/6,1/1,600/975,0/0,125/200,3/5,0/0,0/0,10/10",
 					"3/6,1/1,400/682,250/400,0/0,3/5,0/0,0/0,10/10",
                     "3/6,1/1,400/682,250/400,0/0,3/5,0/0,0/0,10/10",
 					"3/6,1/1,600/1170,0/0,500/800,3/5,0/0,0/0,10/10",
@@ -310,7 +324,7 @@
                     "3/6,1/1,600/975,0/0,70/90,3/5,0/0,0/0,10/10",
 					"3/6,1/1,600/975,0/0,125/160,3/5,0/0,0/0,10/10"
                 ],
-                "preventduplicates": [ false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false ]
+                "preventduplicates": [ false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false ]
             },
 			{
                 "entryid": "Gear_Resources_LootBox",
